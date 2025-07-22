@@ -15,4 +15,5 @@ public class Blog {
     private String cover;
     private String content;
     private int readingTime;
+
 }
